@@ -5,7 +5,7 @@ Retrieve the user's browser information, language, referral URL, domain, and use
 ## Example Output
 
 ```json
-"c4d1d9d06a5c9cf59b01439e9be783f9": {
+"c4d1d9d06a5c9cf59b01439e9b3f9": {
         "session_id": "c4d1d9d06a5c9cf59b01439e9be783f9",
         "IP": "~",
         "userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36",
